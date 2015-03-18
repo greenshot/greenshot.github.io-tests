@@ -9,7 +9,7 @@ class FaqCheck extends spock.lang.Specification {
 		def result = ''
 	
 		given: "current FAQ slugs"
-			// for some reason, FAQs are not includedcd .. in wordpress sitemap.xml - here they are:
+			// for some reason, FAQs are not included in wordpress sitemap.xml - here they are:
 			def slugs = '''
 				is-greenshort-really-portable
 				are-there-any-dependencies-to-other-software-frameworks
