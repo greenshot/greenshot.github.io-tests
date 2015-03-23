@@ -1,12 +1,10 @@
 @Grab(group='org.spockframework', module='spock-core', version='1.0-groovy-2.4')
 
-import spock.lang.Specification
 import spock.lang.*
 
 class FaqCheck extends spock.lang.Specification {
 
 	def static JEKYLL_BASE = "http://localhost:4000"
-	def static WP_BASE = "http://getgreenshot.org"
 
 	@Shared jekyllBlogUrls = extractBlogUrlsFromSitemap("$JEKYLL_BASE/sitemap.xml") 
 	@Shared wpBlogUrls = extractBlogUrlsFromSitemap("sitemap.xml")
@@ -32,6 +30,7 @@ class FaqCheck extends spock.lang.Specification {
 			wpBlogUrl << wpBlogUrls
 			
 	}
+	
 	def extractBlogUrlsFromSitemap(String sitemapFile) {
 	
 		new XmlSlurper()
