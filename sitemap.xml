@@ -1,10 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://getgreenshot.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5.2" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://getgreenshot.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.9.3" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.4" -->
-<!-- generated-on="2014/02/04 23:56" -->
+<!-- generated-on="2015/03/31 20:20" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://getgreenshot.org/</loc>
 		<lastmod>2013-03-30T08:25:16+00:00</lastmod>
 		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2015/03/31/greenshot-says-goodbye-to-facebook/</loc>
+		<lastmod>2015-03-31T17:21:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/help/pt-pt/</loc>
+		<lastmod>2015-02-04T20:43:59+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2014/12/22/a-little-present-from-us-greenshot-1-2/</loc>
+		<lastmod>2014-12-22T20:21:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/lv/</loc>
+		<lastmod>2014-12-21T17:48:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2014/12/05/third-and-hopefully-last-release-candidate-for-greenshot-1-2/</loc>
+		<lastmod>2014-12-05T19:33:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2014/11/11/second-release-candidate-greenshot-1-2/</loc>
+		<lastmod>2014-11-11T21:47:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2014/09/18/release-candidate-for-greenshot-1-2-available/</loc>
+		<lastmod>2014-09-18T19:35:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/help/sv-se/</loc>
+		<lastmod>2014-08-24T20:10:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2014/06/22/greenshot-switches-to-jira-for-bug-reports-and-feature-requests/</loc>
+		<lastmod>2014-06-22T19:55:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2014/05/13/greenshot-1-1-9-bugfix-release/</loc>
+		<lastmod>2014-05-13T19:19:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/downloads/</loc>
+		<lastmod>2014-04-23T19:56:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2014/04/01/happy-birthday-to-greenshot-new-bugfix-release/</loc>
+		<lastmod>2014-04-01T18:52:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/se/</loc>
+		<lastmod>2014-02-18T19:12:54+00:00</lastmod>
+		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
@@ -24,12 +102,6 @@
 		<lastmod>2013-11-06T22:17:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://getgreenshot.org/downloads/</loc>
-		<lastmod>2013-10-29T20:53:23+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://getgreenshot.org/2013/10/29/greenshot-1-1-6-ready-for-download/</loc>
@@ -292,12 +364,6 @@
 	<url>
 		<loc>http://getgreenshot.org/help/hu-hu/</loc>
 		<lastmod>2012-04-09T07:09:25+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>1.0</priority>
-	</url>
-	<url>
-		<loc>http://getgreenshot.org/help/sv-se/</loc>
-		<lastmod>2012-04-09T07:09:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
