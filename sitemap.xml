@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://getgreenshot.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.9.3" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.4" -->
-<!-- generated-on="2015/03/31 20:20" -->
+<!-- generated-on="2015/04/07 20:40" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://getgreenshot.org/</loc>
 		<lastmod>2013-03-30T08:25:16+00:00</lastmod>
 		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/help/</loc>
+		<lastmod>2015-04-07T19:53:21+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/2015/04/07/new-bugfix-release-greenshot-1-2-5/</loc>
+		<lastmod>2015-04-07T19:13:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://getgreenshot.org/help/ko-kr/</loc>
+		<lastmod>2015-04-03T08:40:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
@@ -118,12 +136,6 @@
 	<url>
 		<loc>http://getgreenshot.org/help/de-de/</loc>
 		<lastmod>2013-09-10T10:25:12+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>1.0</priority>
-	</url>
-	<url>
-		<loc>http://getgreenshot.org/help/</loc>
-		<lastmod>2013-09-10T10:24:21+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
